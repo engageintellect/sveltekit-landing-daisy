@@ -42,7 +42,23 @@
 	<div class="stat">
 		<div class="stat-figure text-secondary">
 			<div class="avatar online">
-				<div class="w-16 rounded-full">
+				<div class="w-12 rounded-full">
+					<img
+						alt="avatar"
+						src="https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg"
+					/>
+				</div>
+			</div>
+		</div>
+		<div class="stat-title">Page Views</div>
+		<div class="stat-value text-secondary">2.6M</div>
+		<div class="stat-desc">21% more than last month</div>
+	</div>
+
+	<div class="stat">
+		<div class="stat-figure text-secondary">
+			<div class="avatar online">
+				<div class="w-12 rounded-full">
 					<img
 						alt="avatar"
 						src="https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg"
@@ -51,7 +67,7 @@
 			</div>
 		</div>
 		<div class="stat-value">86%</div>
-		<div class="stat-title">Tasks done</div>
-		<div class="stat-desc text-secondary">31 tasks remaining</div>
+		<div class="stat-title">Engineering</div>
+		<div class="stat-desc text-secondary">79 commits across 14 repositories.</div>
 	</div>
 </div>
