@@ -43,6 +43,7 @@
 		<div class="stat-figure text-secondary">
 			<div class="avatar online w-12 rounded-full">
 				<img
+					class="rounded-full"
 					alt="avatar"
 					src="https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg"
 				/>
