@@ -1,4 +1,4 @@
-<div class="stats flex flex-col items-center justify-center lg:flex-row bg-base-300 shadow-lg">
+<div class="stats flex flex-col lg:flex-row bg-base-300 shadow-lg">
 	<div class="stat">
 		<div class="stat-figure text-primary">
 			<svg
@@ -41,13 +41,11 @@
 
 	<div class="stat">
 		<div class="stat-figure text-secondary">
-			<div class="avatar online">
-				<div class="w-12 rounded-full">
-					<img
-						alt="avatar"
-						src="https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg"
-					/>
-				</div>
+			<div class="avatar online w-12 rounded-full">
+				<img
+					alt="avatar"
+					src="https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg"
+				/>
 			</div>
 		</div>
 		<div class="stat-title">Page Views</div>
