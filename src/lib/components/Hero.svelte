@@ -10,7 +10,10 @@
 				Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem
 				quasi. In deleniti eaque aut repudiandae et a id nisi.
 			</p>
-			<button class="btn btn-primary">Get Started</button>
+			<div class="flex gap-4 justify-center">
+				<button class="btn btn-primary transition-color duration-300 scale-105">Get Started</button>
+				<button class="btn transition-color duration-300 scale-105">Get Started</button>
+			</div>
 		</div>
 	</div>
 </div>

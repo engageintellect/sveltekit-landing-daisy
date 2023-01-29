@@ -1,6 +1,7 @@
 <div class="hero min-h-full bg-base-300 hover:shadow-lg">
 	<div class="hero-content flex-col lg:flex-row">
 		<img
+			alt="hero"
 			src="https://daisyui.com/images/stock/photo-1565098772267-60af42b81ef2.jpg"
 			class="max-w-sm rounded-lg shadow-2xl"
 		/>
