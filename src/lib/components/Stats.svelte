@@ -1,4 +1,4 @@
-<div class="stats flex flex-col lg:flex-row lg:h-64 bg-base-300 shadow-lg">
+<div class="stats flex flex-col items-center justify-center lg:flex-row bg-base-300 shadow-lg">
 	<div class="stat">
 		<div class="stat-figure text-primary">
 			<svg
