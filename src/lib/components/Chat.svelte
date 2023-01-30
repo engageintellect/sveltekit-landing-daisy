@@ -8,7 +8,7 @@
 	</div>
 
 	<div class="flex flex-col lg:flex-row justify-center gap-5 xl:gap-10">
-		<div class="flex flex-col justify-between bg-base-100 rounded-lg w-full">
+		<div class="flex flex-col justify-between bg-base-100 rounded-lg w-full shadow-lg">
 			<div class="p-4 xl:p-10">
 				<!-- MSG 1 -->
 				<div class="chat chat-start">
@@ -65,7 +65,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="flex flex-col justify-between bg-base-100 rounded-lg w-full">
+		<div class="flex flex-col justify-between bg-base-100 rounded-lg w-full shadow-lg">
 			<div class="p-4 xl:p-10">
 				<!-- MSG 1 -->
 				<div class="chat chat-start">
@@ -122,7 +122,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="flex flex-col justify-between bg-base-100 rounded-lg w-full">
+		<div class="flex flex-col justify-between bg-base-100 rounded-lg w-full shadow-lg">
 			<div class="p-4 xl:p-10">
 				<!-- MSG 1 -->
 				<div class="chat chat-start">
