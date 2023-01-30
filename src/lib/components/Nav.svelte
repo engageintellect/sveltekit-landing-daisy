@@ -53,7 +53,8 @@
 
 		<div class="">
 			<div class="dropdown dropdown-hover dropdown-end">
-				<label tabindex="0" class="btn">Theme</label>
+				<!-- svelte-ignore a11y-label-has-associated-control -->
+				<label class="btn">Theme</label>
 				<!-- svelte-ignore a11y-no-noninteractive-tabindex -->
 				<ul tabindex="0" class="dropdown-content menu p-2 shadow bg-base-100 h-96 overflow-scroll">
 					<form method="POST" use:enhance={submitUpdateTheme}>
