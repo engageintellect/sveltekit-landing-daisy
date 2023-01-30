@@ -1,8 +1,8 @@
 <div
 	class="hero h-[100vh] lg:h-[45rem] bg-base-100 hover:shadow-lg"
-	style="background-image: url('https://daisyui.com/images/stock/photo-1507358522600-9f71e620c44e.jpg');"
+	style="background-image: url('https://images.unsplash.com/photo-1644325349124-d1756b79dd42?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2675&q=80');"
 >
-	<div class="hero-overlay bg-opacity-60" />
+	<div class="hero-overlay bg-opacity-50" />
 	<div class="hero-content text-center text-neutral-content">
 		<div class="max-w-lg">
 			<h1 class="mb-5 text-8xl font-bold">Svelte</h1>
