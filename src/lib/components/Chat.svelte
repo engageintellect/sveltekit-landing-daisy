@@ -21,7 +21,7 @@
 						</div>
 					</div>
 					<div class="chat-header">
-						Obi-Wan Kenobi
+						Jack Sparrow
 						<time class="text-xs opacity-50">12:45</time>
 					</div>
 					<div class="chat-bubble">Hello world</div>
@@ -34,13 +34,13 @@
 						<div class="w-10 rounded-full">
 							<img
 								alt="avatar"
-								src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2.25&w=256&h=256&q=80"
+								src="https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg"
 							/>
 						</div>
 					</div>
 					<div class="chat-header">
-						Obi-Wan Kenobi
-						<time class="text-xs opacity-50">12:45</time>
+						Marge Simpson
+						<time class="text-xs opacity-50">12:48</time>
 					</div>
 					<div class="chat-bubble">You were the Chosen One!</div>
 					<div class="chat-footer opacity-50">Delivered</div>
@@ -57,10 +57,10 @@
 						</div>
 					</div>
 					<div class="chat-header">
-						Anakin
-						<time class="text-xs opacity-50">12:46</time>
+						Elon Musk
+						<time class="text-xs opacity-50">12:51</time>
 					</div>
-					<div class="chat-bubble bg-primary">I love you</div>
+					<div class="chat-bubble bg-primary">Thanks 🙂👍</div>
 					<div class="chat-footer opacity-50">Seen at 12:46</div>
 				</div>
 			</div>
@@ -78,7 +78,7 @@
 						</div>
 					</div>
 					<div class="chat-header">
-						Obi-Wan Kenobi
+						Ada Lovelace
 						<time class="text-xs opacity-50">12:45</time>
 					</div>
 					<div class="chat-bubble">Hello world</div>
@@ -130,7 +130,7 @@
 						<div class="w-10 rounded-full">
 							<img
 								alt="avatar"
-								src="https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg"
+								src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
 							/>
 						</div>
 					</div>
@@ -138,7 +138,7 @@
 						Obi-Wan Kenobi
 						<time class="text-xs opacity-50">12:45</time>
 					</div>
-					<div class="chat-bubble">Hello world</div>
+					<div class="chat-bubble">Anakin</div>
 					<div class="chat-footer opacity-50">Delivered</div>
 				</div>
 
