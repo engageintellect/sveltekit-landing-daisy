@@ -3,7 +3,7 @@
 		<img
 			alt="hero"
 			src="https://images.unsplash.com/photo-1517048676732-d65bc937f952?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y29sbGFib3JhdGlvbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60"
-			class="h-80 w-80 object-cover rounded-lg shadow-2xl"
+			class="h-80 w-full object-cover rounded-lg shadow-2xl"
 		/>
 		<div class="text-center max-w-lg">
 			<h1 class="text-3xl font-bold">Improved Collaboration</h1>
