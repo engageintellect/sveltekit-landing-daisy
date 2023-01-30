@@ -2,11 +2,11 @@
 	<div class="hero-content flex-col lg:flex-row xl:gap-72">
 		<img
 			alt="hero"
-			src="https://daisyui.com/images/stock/photo-1565098772267-60af42b81ef2.jpg"
+			src="https://daisyui.com/images/stock/photo-1572635148818-ef6fd45eb394.jpg"
 			class="h-80 w-80 object-cover rounded-lg shadow-2xl"
 		/>
 		<div class="text-center max-w-lg">
-			<h1 class="text-3xl font-bold">Cross-team Connections</h1>
+			<h1 class="text-3xl font-bold">Developer Experience</h1>
 			<p class="py-6">
 				Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem
 				quasi. In deleniti eaque aut repudiandae et a id nisi.

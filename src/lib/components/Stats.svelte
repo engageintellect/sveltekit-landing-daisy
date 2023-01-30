@@ -1,5 +1,5 @@
 <div class="p-4 xl:p-10 bg-base-300 my-10 rounded-lg">
-	<div class="max-w-xl mx-auto pb-10">
+	<div class="max-w-lg mx-auto pb-10">
 		<div class="text-3xl font-bold text-center my-5">Instant Insights</div>
 		<div class="text-lg text-center my-5">
 			Voluptate eiusmod quis do aliquip labore esse pariatur excepteur dolore do fugiat sint Lorem
@@ -23,9 +23,9 @@
 					/></svg
 				>
 			</div>
-			<div class="stat-title">Total Likes</div>
-			<div class="stat-value text-primary">25.6K</div>
-			<div class="stat-desc">21% more than last month</div>
+			<div class="stat-title">Total Projects</div>
+			<div class="stat-value text-primary">182</div>
+			<div class="stat-desc">3% more than last month</div>
 		</div>
 
 		<div class="stat">
@@ -43,7 +43,7 @@
 					/></svg
 				>
 			</div>
-			<div class="stat-title">Page Views</div>
+			<div class="stat-title">Connections</div>
 			<div class="stat-value text-primary-focus">2.6M</div>
 			<div class="stat-desc">21% more than last month</div>
 		</div>
@@ -59,8 +59,8 @@
 				</div>
 			</div>
 			<div class="stat-title">Page Views</div>
-			<div class="stat-value text-secondary">2.6M</div>
-			<div class="stat-desc">21% more than last month</div>
+			<div class="stat-value text-secondary">262k</div>
+			<div class="stat-desc">11% more than last month</div>
 		</div>
 
 		<div class="stat">
