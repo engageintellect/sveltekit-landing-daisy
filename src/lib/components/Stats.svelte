@@ -54,28 +54,13 @@
 					<img
 						class="rounded-full"
 						alt="avatar"
-						src="https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg"
+						src="https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg"
 					/>
 				</div>
 			</div>
 			<div class="stat-title">Page Views</div>
 			<div class="stat-value text-secondary">262k</div>
 			<div class="stat-desc">11% more than last month</div>
-		</div>
-
-		<div class="stat">
-			<div class="stat-figure text-secondary-focus">
-				<div class="avatar online w-12">
-					<img
-						class="rounded-full"
-						alt="avatar"
-						src="https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg"
-					/>
-				</div>
-			</div>
-			<div class="stat-title">Engineering</div>
-			<div class="stat-value text-secondary">86%</div>
-			<div class="stat-desc">79 commits across 14 repositories.</div>
 		</div>
 	</div>
 </div>

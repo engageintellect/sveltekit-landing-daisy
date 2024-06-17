@@ -6,9 +6,6 @@
 	import Stats from '$lib/components/Stats.svelte';
 	import HeroCards from '$lib/components/HeroCards.svelte';
 	import Links from '$lib/components/Links.svelte';
-	import Countdown from '$lib/components/Countdown.svelte';
-	import Drawer from '$lib/components/Drawer.svelte';
-	import Card from '$lib/components/Card.svelte';
 </script>
 
 <div>
@@ -17,11 +14,11 @@
 			<Hero />
 		</div>
 
-		<div class="lg:container mx-auto">
+		<div class="w-full max-w-4xl mx-auto mt-5 lg:-mt-20 px-4 lg:px-0">
 			<Carousel />
 		</div>
 	</div>
-	<div class="container mx-auto">
+	<div class="w-full max-w-4xl mx-auto">
 		<Stats />
 		<Chat />
 

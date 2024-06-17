@@ -2,7 +2,7 @@
 	import { enhance, type SubmitFunction } from '$app/forms';
 	import { page } from '$app/stores';
 	import '$lib/app.css';
-	import Drawer from './Drawer.svelte';
+	import { themes } from '$lib/utils/themes';
 
 	const submitUpdateTheme: SubmitFunction = ({ action }) => {
 		const theme = action.searchParams.get('theme');
@@ -11,42 +11,10 @@
 			document.documentElement.setAttribute('data-theme', theme);
 		}
 	};
-
-	const themes = [
-		'light',
-		'dark',
-		'cupcake',
-		'bumblebee',
-		'emerald',
-		'corporate',
-		'synthwave',
-		'retro',
-		'cyberpunk',
-		'valentine',
-		'halloween',
-		'garden',
-		'forest',
-		'aqua',
-		'lofi',
-		'pastel',
-		'fantasy',
-		'wireframe',
-		'black',
-		'luxury',
-		'dracula',
-		'cmyk',
-		'autumn',
-		'business',
-		'acid',
-		'lemonade',
-		'night',
-		'coffee',
-		'winter'
-	];
 </script>
 
 <div class="bg-base-100 sticky top-0 shadow-lg z-40">
-	<div class="flex items-center justify-between p-2 lg:container lg:mx-auto">
+	<div class="flex items-center justify-between p-2 w-full max-w-4xl mx-auto">
 		<div class="">
 			<a href="/" class="font-bold text-primary text-xl">Sveltekit</a>
 		</div>
